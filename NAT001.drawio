@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T06:40:20.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.6.2" etag="iiR85F9t1XxTqyMTfTyi" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T06:44:57.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.6.2" etag="hf6wRCF69Us-zsWwNPBu" type="github">
   <diagram id="GQrZU6SEMqqAmYGPDlv7" name="페이지-1">
     <mxGraphModel dx="1202" dy="986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="WVftZPUpkxEC_noE6ZOG-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WVftZPUpkxEC_noE6ZOG-6">
           <mxGeometry x="6" y="-170" width="371" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="WVftZPUpkxEC_noE6ZOG-10" value="arrow" style="" parent="0" />
+        <mxCell id="WVftZPUpkxEC_noE6ZOG-10" value="arrow" style="locked=1;" parent="0" />
         <mxCell id="WVftZPUpkxEC_noE6ZOG-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=5.393103448275863;fontSize=12;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;endWidth=12.413793103448276;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WVftZPUpkxEC_noE6ZOG-10">
           <mxGeometry width="140" relative="1" as="geometry">
             <mxPoint x="304" y="95" as="sourcePoint" />
@@ -37,7 +37,7 @@
         <mxCell id="WVftZPUpkxEC_noE6ZOG-20" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;" vertex="1" parent="1">
           <mxGeometry x="247" y="-55" width="41" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="WVftZPUpkxEC_noE6ZOG-17" value="text" style="locked=1;" parent="0" />
+        <mxCell id="WVftZPUpkxEC_noE6ZOG-17" value="text" style="" parent="0" />
         <mxCell id="WVftZPUpkxEC_noE6ZOG-18" value="Trust(Private)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WVftZPUpkxEC_noE6ZOG-17">
           <mxGeometry x="-120" y="-162" width="119" height="30" as="geometry" />
         </mxCell>
